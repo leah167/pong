@@ -18,6 +18,7 @@ body {
     background-color: green;
     height: 20px;
     width: 20px;
+    border-radius: 10px; /*rounds our ball*/
     position: absolute;
     top: 0;
     left: 0;
